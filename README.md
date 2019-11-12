@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [SpringCloud 基础配置](http://www.zz910.cn/articles/2019/11/12/1573551109000.html)
 * [世界，你好！](http://www.zz910.cn/hello-solo)
 
 
